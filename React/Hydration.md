@@ -1,1 +1,1 @@
-- The Perils of Rehydration : https://joshwcomeau.com/react/the-perils-of-rehydration/
+- The Perils of Rehydration - https://joshwcomeau.com/react/the-perils-of-rehydration/

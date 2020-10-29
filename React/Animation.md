@@ -1,3 +1,3 @@
-- Animating list reordering with React Hooks : https://itnext.io/animating-list-reordering-with-react-hooks-aca5e7eeafba
-- Animating the Unanimatable : https://medium.com/developers-writing/animating-the-unanimatable-1346a5aab3cd
-- Build a React Accordion Component from Scratch Using React Hooks : https://medium.com/skillthrive/build-a-react-accordion-component-from-scratch-using-react-hooks-a71d3d91324b
+- Animating list reordering with React Hooks - https://itnext.io/animating-list-reordering-with-react-hooks-aca5e7eeafba
+- Animating the Unanimatable - https://medium.com/developers-writing/animating-the-unanimatable-1346a5aab3cd
+- Build a React Accordion Component from Scratch Using React Hooks - https://medium.com/skillthrive/build-a-react-accordion-component-from-scratch-using-react-hooks-a71d3d91324b
